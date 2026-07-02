@@ -1,0 +1,36 @@
+name: BTC Tide Model
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-model:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Tide Model
+        run: python tide_model.py
+
+      - name: Commit updated signal
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add signal.json history.csv
+          git commit -m "Update BTC Tide signal" || echo "No changes to commit"
+          git push
