@@ -1,10 +1,11 @@
-latest_check_time_utc,latest_candle_time_utc,symbol,latest_price,regime_1h,recent_signal_count_18h,status,note
-2026-07-02T14:12:30.885982+00:00,2026-07-02 14:00:00+00:00,BTC-USD,61898.0,downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-02T20:10:22.405285+00:00,2026-07-02 20:00:00+00:00,BTC-USD,61433.59,not_downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-03T08:39:17.510193+00:00,2026-07-03 08:30:00+00:00,BTC-USD,61676.0,not_downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-03T16:00:27.721258+00:00,2026-07-03 16:00:00+00:00,BTC-USD,61874.52,not_downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-03T20:34:59.373820+00:00,2026-07-03 20:30:00+00:00,BTC-USD,62599.5,not_downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-04T07:32:42.424636+00:00,2026-07-04 07:30:00+00:00,BTC-USD,62480.86,not_downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-04T12:14:02.465236+00:00,2026-07-04 12:00:00+00:00,BTC-USD,62511.59,not_downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-04T16:40:32.233744+00:00,2026-07-04 16:30:00+00:00,BTC-USD,62894.67,not_downtrend,0,NO SIGNAL,No valid model signal is present.
-2026-07-04T20:31:58.715114+00:00,2026-07-04 20:30:00+00:00,BTC-USD,63154.13,not_downtrend,0,NO SIGNAL,No valid model signal is present.
+latest_check_time_utc,latest_candle_time_utc,symbol,latest_price,regime_1h,recent_signal_count_18h,status,note,signal_time_utc,entry_price,planned_exit_time_utc
+2026-07-02T14:12:30.885982+00:00,2026-07-02 14:00:00+00:00,BTC-USD,61898.0,downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-02T20:10:22.405285+00:00,2026-07-02 20:00:00+00:00,BTC-USD,61433.59,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-03T08:39:17.510193+00:00,2026-07-03 08:30:00+00:00,BTC-USD,61676.0,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-03T16:00:27.721258+00:00,2026-07-03 16:00:00+00:00,BTC-USD,61874.52,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-03T20:34:59.373820+00:00,2026-07-03 20:30:00+00:00,BTC-USD,62599.5,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-04T07:32:42.424636+00:00,2026-07-04 07:30:00+00:00,BTC-USD,62480.86,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-04T12:14:02.465236+00:00,2026-07-04 12:00:00+00:00,BTC-USD,62511.59,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-04T16:40:32.233744+00:00,2026-07-04 16:30:00+00:00,BTC-USD,62894.67,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-04T20:31:58.715114+00:00,2026-07-04 20:30:00+00:00,BTC-USD,63154.13,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
+2026-07-05T08:27:21.762427+00:00,2026-07-05 08:15:00+00:00,BTC-USD,62870.87,not_downtrend,1,NO SIGNAL,No valid model signal is present.,2026-07-05 01:30:00+00:00,62811.49,2026-07-05 19:30:00+00:00
