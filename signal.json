@@ -1,9 +1,9 @@
 {
-  "latest_check_time_utc": "2026-07-18T22:34:01.725567+00:00",
-  "latest_candle_time_utc": "2026-07-18 22:30:00+00:00",
+  "latest_check_time_utc": "2026-07-19T07:39:12.222352+00:00",
+  "latest_candle_time_utc": "2026-07-19 07:30:00+00:00",
   "symbol": "BTC-USD",
-  "latest_price": 64694.41,
-  "regime_1h": "downtrend",
+  "latest_price": 64687.98,
+  "regime_1h": "not_downtrend",
   "recent_signal_count_18h": 0,
   "status": "NO SIGNAL",
   "note": "No valid model signal is present."
