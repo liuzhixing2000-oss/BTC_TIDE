@@ -195,3 +195,4 @@ latest_check_time_utc,latest_candle_time_utc,symbol,latest_price,regime_1h,recen
 2026-08-08T23:39:13.488588+00:00,2026-08-08 23:30:00+00:00,BTC-USD,64916.71,not_downtrend,0,NO SIGNAL,No valid model signal is present.,,,
 2026-08-09T02:24:09.996107+00:00,2026-08-09 02:15:00+00:00,BTC-USD,64782.28,not_downtrend,1,NO SIGNAL,No valid model signal is present.,2026-08-09 01:45:00+00:00,64807.79,2026-08-09 19:45:00+00:00
 2026-08-09T04:32:46.056224+00:00,2026-08-09 04:30:00+00:00,BTC-USD,64764.34,not_downtrend,1,NO SIGNAL,No valid model signal is present.,2026-08-08 21:45:00+00:00,64968.03,2026-08-09 15:45:00+00:00
+2026-08-09T05:54:37.256867+00:00,2026-08-09 05:45:00+00:00,BTC-USD,64738.61,not_downtrend,1,NO SIGNAL,No valid model signal is present.,2026-08-08 21:45:00+00:00,64968.03,2026-08-09 15:45:00+00:00
