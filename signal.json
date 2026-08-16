@@ -1,8 +1,8 @@
 {
-  "latest_check_time_utc": "2026-08-16T16:37:01.378182+00:00",
-  "latest_candle_time_utc": "2026-08-16 16:30:00+00:00",
+  "latest_check_time_utc": "2026-08-16T17:29:51.051973+00:00",
+  "latest_candle_time_utc": "2026-08-16 17:15:00+00:00",
   "symbol": "BTC-USD",
-  "latest_price": 63275.71,
+  "latest_price": 63120.96,
   "regime_1h": "downtrend",
   "recent_signal_count_18h": 1,
   "status": "ACTIVE BUT LATE",
