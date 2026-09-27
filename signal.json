@@ -1,13 +1,13 @@
 {
-  "latest_check_time_utc": "2026-09-27T11:56:02.878152+00:00",
-  "latest_candle_time_utc": "2026-09-27 11:45:00+00:00",
+  "latest_check_time_utc": "2026-09-27T16:54:17.118686+00:00",
+  "latest_candle_time_utc": "2026-09-27 16:45:00+00:00",
   "symbol": "BTC-USD",
-  "latest_price": 84895.12,
+  "latest_price": 84416.85,
   "regime_1h": "not_downtrend",
   "recent_signal_count_18h": 1,
   "status": "NO SIGNAL",
   "note": "No valid model signal is present.",
-  "signal_time_utc": "2026-09-26 20:45:00+00:00",
-  "entry_price": 84016.33,
-  "planned_exit_time_utc": "2026-09-27 14:45:00+00:00"
+  "signal_time_utc": "2026-09-27 15:00:00+00:00",
+  "entry_price": 84500.01,
+  "planned_exit_time_utc": "2026-09-28 09:00:00+00:00"
 }
